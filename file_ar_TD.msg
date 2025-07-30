@@ -1,1 +1,1 @@
-STRI_INVALID_8 "Invalid Color ]]"
+STRI_INVALID_8 "Invalid Color ]]>"
